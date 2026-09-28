@@ -10,7 +10,6 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "vendoredDependencies": {
-    "ws": "8.19.0 (committed under vendor/, no install step)"
-  }
+  "dependencies": {},
+  "thirdPartyNotices": "ws@8.19.0 (MIT), bundled into server.js at build time; licence text is at the top of that file"
 }
