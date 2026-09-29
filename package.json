@@ -1,6 +1,6 @@
 {
   "name": "aether-matrix-node",
-  "version": "1.0.0",
+  "version": "1.4.2",
   "private": true,
   "description": "LLM edge inference node runtime",
   "main": "server.js",
@@ -11,5 +11,5 @@
     "node": ">=18.0.0"
   },
   "dependencies": {},
-  "thirdPartyNotices": "ws@8.19.0 (MIT), bundled into server.js at build time; licence text is at the top of that file"
+  "thirdPartyNotices": "ws@8.22.0 (MIT), tailwindcss@3.4.19 (MIT, pre-compiled into the console page), JetBrains Mono (OFL-1.1, subset and base64-inlined); all three are bundled into server.js at build time and their licence texts are at the top of that file"
 }
