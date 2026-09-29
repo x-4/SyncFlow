@@ -1,2 +1,5 @@
 node_modules/
 *.log
+# a node that was started without UUID mints its own identity and keeps it here;
+# it is a live credential, so it never belongs in a commit
+.node-id
